@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-products-crud/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-products-crud/static/js/main.a2b97a85.chunk.js",
+    "main.js.map": "/react-products-crud/static/js/main.a2b97a85.chunk.js.map",
+    "runtime-main.js": "/react-products-crud/static/js/runtime-main.1835db80.js",
+    "runtime-main.js.map": "/react-products-crud/static/js/runtime-main.1835db80.js.map",
+    "static/js/2.9f712be0.chunk.js": "/react-products-crud/static/js/2.9f712be0.chunk.js",
+    "static/js/2.9f712be0.chunk.js.map": "/react-products-crud/static/js/2.9f712be0.chunk.js.map",
+    "index.html": "/react-products-crud/index.html",
+    "precache-manifest.baa3003c76e86ff8501dc7d1eeb6ca42.js": "/react-products-crud/precache-manifest.baa3003c76e86ff8501dc7d1eeb6ca42.js",
+    "service-worker.js": "/react-products-crud/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-products-crud/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9f712be0.chunk.js.LICENSE.txt": "/react-products-crud/static/js/2.9f712be0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-products-crud/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1835db80.js",
+    "static/js/2.9f712be0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a2b97a85.chunk.js"
+  ]
+}
